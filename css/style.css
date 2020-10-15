@@ -76,7 +76,6 @@ html {
 body {
   font-family: var(--font-main);
   box-sizing: border-box;
-overflow: hidden;
 }
 
 /* COMMON */
