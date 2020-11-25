@@ -492,9 +492,9 @@ body {
 .front-page-my-photo {
   width: 100px;
   margin-bottom: 20px;
-  border-radius: 50px;
+  border-radius: 30%;
   border: 3px solid var(--c-grey-blue);
-  box-shadow: 0 0 7px #666;
+  box-shadow: 5px 5px 7px rgb(228, 224, 224);
 }
 
 .front-page-my-decr {
